@@ -65,7 +65,7 @@
     "ember-moment": "^7.5.0",
     "ember-page-title": "^4.0.5",
     "ember-percy": "^1.4.0",
-    "ember-prism": "^0.2.0",
+    "ember-prism": "^0.5.0",
     "ember-resolver": "^4.1.0",
     "ember-router-scroll": "^0.4.0",
     "ember-source": "~3.1.0",
@@ -96,5 +96,8 @@
     "tabWidth": 2,
     "singleQuote": true,
     "trailingComma": "all"
+  },
+  "volta": {
+    "node": "10.16.3"
   }
 }
